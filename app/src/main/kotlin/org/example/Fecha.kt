@@ -1,6 +1,6 @@
 package org.example
 
-data class Fecha(
+class Fecha(
     private val dia: Int,
     private val mes: Int,
     private val anio: Int
